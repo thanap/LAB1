@@ -1,0 +1,25 @@
+
+Kontrollspørsmål
+
+0) Javascript er et prgrammeringsspråk som kan ikke kjøres som et eget program, det må kjøres på en weside, og websiden
+må vises i en nettleser som forstår Javascript som for eksempel Google Chrome, Fire Fox, IE etc.
+	Javascript er et skriptspråk og kan skrives i HTML-koden. Den kan legge dynamisk tekst inn i en HTML-side.
+	Den kan brukes til å validere data i et web-skjema, sjekke brukerens browserversjon, legge coookies på brukerens maskin
+
+1) Forskjellen mellom CSS id og class er at id kan man bare bruke en gang, derimot class kan bruker flere ganger
+	For eksempel, id er kodenavn som er brukt for å identifisere ett objekt som bare forkommer en gang i hele HTML-kode
+	class ligger innefor id for eksempel, 	<div id="logo">
+						<div class="logo-image">
+						</div>
+					</div>
+	ID kan også brukes for å få tilgang til div-en fra Javascript, jQuery eller CSS
+
+2) På deloppgave 1 vil bruke mindre plass ved å legge alle elementene inn i en select option med scrollbar. Det vil bli mye penere
+og oversiktlig enn deloppgave 0 fordi man må legge elementene i rekke og det vil bruke veldig my plass
+
+3) De bruker ul, li og tre kolonner, en på venstre, en i midten og en på høyre. De bruker også css til å farge tekstene.
+
+4) Div er et generelt tag man kan putte hva som helst inni for eksempel, div som gir tilgang til Javascript, jQuery eller CSS.
+Span derimot er kun en seksjon av en tekstlinje for eksempel man kan ha en spesiell skrifteffekt ved å bruke span
+
+5)
